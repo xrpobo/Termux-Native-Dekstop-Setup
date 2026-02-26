@@ -66,7 +66,20 @@ chmod +x install.sh
 ./install.sh
 ```
 
-Kalau ada pertanyaan dalam terminal, tekan enter saja (Default)
+Proses ini akan secara otomatis:
+• Membersihkan dan memperbarui sistem
+• Menginstal repository dan dependensi penting:
+  • x11-repo
+  • termux-x11-nightly
+  • pulseaudio
+  • xfce4
+  • tur-repo
+  • Membuat file run.sh
+  • Menyediakan opsi instalasi tambahan:
+    • Chromium Browser
+    • Telegram Desktop
+
+Apabila muncul pertanyaan selama proses instalasi, cukup tekan Enter untuk melanjutkan dengan opsi default.
 
 ---
 
