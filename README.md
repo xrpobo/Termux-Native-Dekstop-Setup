@@ -60,6 +60,8 @@ wget https://github.com/xrpobo/Termux-Native-Dekstop-Setup/releases/download/v2/
 chmod +x install.sh
 ```
 
+---
+
 #### 4. Jalankan proses instalasi
 
 ```bash
@@ -85,6 +87,45 @@ Apabila muncul pertanyaan selama proses instalasi, cukup tekan Enter untuk melan
 ---
 
 ### ✅ Menjalankan Desktop
+
+## 🪟 Rekomendasi pemgaturan Termux X11
+
+### 🔧 Output Settings
+
+- **Resolution Mode:** custom  
+- **Resolution:** 1280x720  (Aku di poco F5 pake 1600x720 biar pas layar skala 16:9)
+- **Adjust resolution to fit orientation:** OFF  
+- **Stretch to fit display:** OFF  
+- **Reseed screen when keyboard is open:** OFF  
+- **PIP mode:** OFF  
+- **Fullscreen:** ON  
+- **Orientation:** landscape  
+- **Hide display cutout:** OFF  
+- **Keep screen on:** ON  
+
+---
+
+### 🖱️ Pointer Settings
+
+- Nothing has changed  
+
+---
+
+### ⌨️ Keyboard Settings
+
+- **Show additional keyboard:** OFF  
+- **Show IME with external keyboard:** ON  
+- **Prefer scancodes when possible:** OFF  
+- **Hardware keyboard scancodes workaround:** ON  
+- **Accessibility shortcut interception:** UNCHANGED  
+- **Enforce char-based input:** OFF  
+
+---
+
+### ⚙️ Other Settings
+
+- Nothing has changed
+
 
 Setelah proses instalasi selesai, Anda dapat langsung menjalankan XFCE4 Desktop dengan perintah berikut:
 
