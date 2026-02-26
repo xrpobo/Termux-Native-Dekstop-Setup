@@ -31,7 +31,7 @@ Sebelum memulai instalasi, pastikan Anda sudah memiliki:
 
 | Aplikasi                         | Tautan Unduh                                                                                                          |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| 📱 **Termux** | [`.apk` dari F-Droid](https://f-droid.org/repo/com.termux_1002.apk)                                                   |
+| 📱 **Termux** | [`.apk` dari F-Droid](https://f-droid.org/repo/com.termux_1022.apk)                                                   |
 | 🪟 **Termux X11**                | [`.apk` dari GitHub Releases](https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk) |
 
 ---
@@ -51,7 +51,7 @@ Kalau ada pertanyaan dalam terminal, tekan enter saja (Default)
 #### 2. Unduh skrip installer `install.sh` dari GitHub Releases
 
 ```bash
-wget https://github.com/cryptofinderid/Termux-Native-Dekstop-Setup/releases/download/v1/install.sh
+wget https://github.com/xrpobo/Termux-Native-Dekstop-Setup/releases/download/v2/install.sh
 ```
 
 #### 3. Beri izin eksekusi
