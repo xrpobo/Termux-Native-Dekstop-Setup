@@ -88,9 +88,9 @@ Apabila muncul pertanyaan selama proses instalasi, cukup tekan Enter untuk melan
 
 ### ✅ Menjalankan Desktop
 
-## 🪟 Rekomendasi pemgaturan Termux X11
+#### 🪟 Rekomendasi pengaturan Termux X11
 
-### 🔧 Output Settings
+##### 🔧 Output Settings
 
 - **Resolution Mode:** custom  
 - **Resolution:** 1280x720  (Aku di poco F5 pake 1600x720 biar pas layar skala 16:9)
@@ -105,13 +105,13 @@ Apabila muncul pertanyaan selama proses instalasi, cukup tekan Enter untuk melan
 
 ---
 
-### 🖱️ Pointer Settings
+##### 🖱️ Pointer Settings
 
 - Nothing has changed  
 
 ---
 
-### ⌨️ Keyboard Settings
+##### ⌨️ Keyboard Settings
 
 - **Show additional keyboard:** OFF  
 - **Show IME with external keyboard:** ON  
@@ -122,12 +122,13 @@ Apabila muncul pertanyaan selama proses instalasi, cukup tekan Enter untuk melan
 
 ---
 
-### ⚙️ Other Settings
+##### ⚙️ Other Settings
 
 - Nothing has changed
 
+---
 
-Setelah proses instalasi selesai, Anda dapat langsung menjalankan XFCE4 Desktop dengan perintah berikut:
+Setelah proses instalasi selesai, dan pengaturan sudah pas, Anda dapat langsung menjalankan XFCE4 Desktop dengan perintah berikut:
 
 ```bash
 ./run.sh
